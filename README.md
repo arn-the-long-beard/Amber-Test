@@ -58,4 +58,4 @@ docker-compose logs -f
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) ArnTheLongBeard - creator, maintainer
+- arn-the-long-beard
